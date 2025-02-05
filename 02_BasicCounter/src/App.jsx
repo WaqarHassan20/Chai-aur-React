@@ -59,7 +59,7 @@ function App() {
   }
   return (
     <>
-      <h1>Chai aur code : {counter}</h1>
+      <h1>Counter Value : {counter}</h1>
 
       <div
         style={{
